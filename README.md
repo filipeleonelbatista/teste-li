@@ -37,3 +37,21 @@ Use seu conhecimento, consulte a documentação e o google, caso ainda houver d�
 - Funcionalidade
 - Organização
 - Apresentação da interface (Poderá usar frameworks mas recomendo criar do 0 ou usar Styled Components)
+
+🔗 [Meus links para contato](https://filipedev.ga) <br/> 
+
+<h3 align="center" >Vamos nos conectar 😉</h3>
+<p align="center">
+  <a href="https://filipedev.ga">
+    <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/filipeleonelbatista/">
+    <img alt="LinkedIn" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/052-linkedin.svg" />
+  </a>&ensp;
+  <a href="https://instagram.com/filipeleonelbatista">
+    <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
+  </a>&ensp;
+  <a href="https://desenvolvedordeaplicativos.ga/">
+    <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
+  </a>
+</p>
