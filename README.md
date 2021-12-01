@@ -1,12 +1,12 @@
 # Bem vindo a mais um teste de ReactJS <img alt="Meu site" width="48px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/Hi.gif" />
 
 ##### Objetivo
-Criar um Crud simples, totalmente desenvolvido em ReactJS, sem a utilização de outras bibliotecas, onde será possível Criar/Editar/Excluir/Listar usuários e veículos. O sistema também deve possuir a possibilidade de vincular/desvincular Veiculos ao usuário.
+Criar um Crud simples, totalmente desenvolvido em `ReactJS`, sem a utilização de outras bibliotecas, onde será possível Criar/Editar/Excluir/Listar usuários e veículos. O sistema também deve possuir a possibilidade de vincular/desvincular Veiculos ao usuário.
 
 ##### Estrutura de banco de dados
 
-O banco de dados a ser utilizado pode ser SQLite, Postgres ou pode usar o localstorage para salvar.<br />
-Caso use o localstorage, crie uma função que popule alguns dados para os testes.<br />
+O banco de dados a ser utilizado pode ser `SQLite`, `Postgres` ou pode usar o `localstorage` para salvar.<br />
+Caso use o `localstorage`, crie uma função que popule alguns dados para os testes.<br />
 Na etapa de avaliação será legal ter no mínimo 3 usuarios cadastrados e 2 veículos.<br />
 A seguinte estrutura será utilizada para persistência dos dados, podendo ser alterada a qualquer momento para melhor funcionamento do sistema:
 
