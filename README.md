@@ -1,7 +1,7 @@
 # Bem vindo a mais um teste de ReactJS <img alt="Meu site" width="48px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/Hi.gif" />
 
 ##### Objetivo
-Criar um Crud simples, totalmente desenvolvido em `ReactJS`, sem a utilização de outras bibliotecas, onde será possível Criar/Editar/Excluir/Listar usuários e veículos. O sistema também deve possuir a possibilidade de vincular/desvincular Veiculos ao usuário.
+Criar um Crud simples, totalmente desenvolvido em `ReactJS`, onde será possível Criar/Editar/Excluir/Listar usuários e veículos. O sistema também deve possuir a possibilidade de vincular/desvincular Veiculos ao usuário.
 
 ##### Estrutura de banco de dados
 
