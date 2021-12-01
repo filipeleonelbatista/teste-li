@@ -4,9 +4,10 @@
 Criar um Crud simples, totalmente desenvolvido em ReactJS, sem a utilização de outras bibliotecas, onde será possível Criar/Editar/Excluir/Listar usuários e veículos. O sistema também deve possuir a possibilidade de vincular/desvincular Veiculos ao usuário.
 
 ##### Estrutura de banco de dados
-O banco de dados a ser utilizado pode ser SQLite, Postgres ou pode usar o localstorage para salvar.
-Caso use o localstorage, crie uma função que popule alguns dados para os testes.
-Na etapa de avaliação será legal ter no mínimo 3 usuarios cadastrados e 2 veículos.
+
+O banco de dados a ser utilizado pode ser SQLite, Postgres ou pode usar o localstorage para salvar.<br />
+Caso use o localstorage, crie uma função que popule alguns dados para os testes.<br />
+Na etapa de avaliação será legal ter no mínimo 3 usuarios cadastrados e 2 veículos.<br />
 A seguinte estrutura será utilizada para persistência dos dados, podendo ser alterada a qualquer momento para melhor funcionamento do sistema:
 
 ```sql
@@ -26,10 +27,10 @@ A seguinte estrutura será utilizada para persistência dos dados, podendo ser a
 ```
 
 ##### Start
-Antes de iniciar Faça um Fork deste repositório.
-Envie o link do seu repositório 'forkado' e faça commits de cada alteração do sistema. 
-Isso será avaliado também.
-Ao final envie um Pull Request para a aprovação.
+Antes de iniciar Faça um Fork deste repositório.<br />
+Envie o link do seu repositório 'forkado' e faça commits de cada alteração do sistema. <br />
+Isso será avaliado também.<br />
+Ao final envie um Pull Request para a aprovação.<br />
 
 ##### Boa Sorte
 Use seu conhecimento, consulte a documentação e o google, caso ainda houver dúvidas, nos pergunte :D. Boa sorte!
